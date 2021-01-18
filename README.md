@@ -7,7 +7,7 @@ Since I'm juggling between different frameworks/languages, sometimes it's diffic
 That's why I've decided to centralize examples of simple bots in this repository. I hope it will also benefit other people.
 
 For the moment I only have example for the following bots:
-- Playwright (NodeJS only): Chromium, Webkit (Safari)
+- Playwright (NodeJS only): Chromium, Webkit (Safari), Firefox
 - Puppeteer (NodeJS only): Chromium, Firefox
 - Selenium (NodeJS only): Chromium
 
