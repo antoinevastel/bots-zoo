@@ -9,7 +9,7 @@ That's why I've decided to centralize examples of simple bots in this repository
 For the moment I only have example for the following bots:
 - Playwright (NodeJS only): Chromium, Webkit (Safari), Firefox
 - Puppeteer (NodeJS only): Chromium, Firefox
-- Selenium (NodeJS only): Chromium
+- Selenium (NodeJS only): Chromium, Firefox
 
 I will continue to add other examples, such as Playwright Firefox/WebKit, Selenium Firefox, both in NodeJS but also in other programming languages like Python.
 I will also provide examples for bot frameworks that provide mechanisms against bot detection solutions.
