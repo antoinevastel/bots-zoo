@@ -15,5 +15,8 @@ For the moment I only have example for the following bots:
 I will continue to add other examples, such as Playwright Firefox/WebKit, Selenium Firefox, both in NodeJS but also in other programming languages like Python.
 I will also provide examples for bot frameworks that provide mechanisms against bot detection solutions.
 
+The **headers** directory contains data related to HTTP headers.
+For the moment, it contains only a list of ~16K user-agents.
+
 **DON'T contact me** if you want to ask me how to make your bot(s) undetectable. 
 You can find [articles on my website](https://antoinevastel.com/categories.html#Bot-detection-ref), but I won't provide more details since I'm working for a bot detection company.
