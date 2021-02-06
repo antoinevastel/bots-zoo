@@ -1,0 +1,24 @@
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+*/*
+text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, application/x-shockwave-flash, application/msword, */*
+text/html, application/xhtml+xml, image/jxr, */*
+text/html, application/xml;q=0.9, application/xhtml+xml, image/png, image/webp, image/jpeg, image/gif, image/x-xbitmap, */*;q=0.1
+image/avif,image/webp,*/*
+image/webp,*/*
+image/png,image/*;q=0.8,*/*;q=0.5
+image/png,image/svg+xml,image/*;q=0.8,video/*;q=0.8,*/*;q=0.5
+image/avif,image/webp,image/apng,image/*,*/*;q=0.8
+image/png,image/svg+xml,image/*;q=0.8, */*;q=0.5
+video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5
+audio/webm,audio/ogg,audio/wav,audio/*;q=0.9,application/ogg;q=0.7,video/*;q=0.6,*/*;q=0.5
+application/javascript, */*;q=0.8
+text/css,*/*;q=0.1
+text/css
+text/html, application/xml;q=0.9, application/xhtml+xml, image/png, image/webp, image/jpeg, image/gif, image/x-xbitmap, */*;q=0.1
+image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+application/json, text/plain, */*
+application/json
+text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,image/webp

@@ -1,0 +1,12 @@
+ARM
+iPad
+iPhone
+Linux aarch64
+Linux armv7l
+Linux armv8l
+Linux i686
+Linux x86_64
+Linux
+MacIntel
+Win32
+Win64

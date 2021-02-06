@@ -1,0 +1,16 @@
+Apple Inc.
+ARM
+ATI Technologies Inc.
+Google Inc.
+Imagination Technologies
+Intel Inc.
+Intel Open Source Technology Center
+Intel
+Microsoft
+Not supported
+nouveau
+NVIDIA Corporation
+Qualcomm
+VMware, Inc.
+X.Org R300 Project
+X.Org

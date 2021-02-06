@@ -1,0 +1,7 @@
+gzip, deflate, br
+gzip
+gzip, deflate
+gzip, deflate, sdch
+identity
+gzip, compress, br
+br, gzip, deflate

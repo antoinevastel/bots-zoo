@@ -1,0 +1,19 @@
+Intel Mac OS X 10.11
+Intel Mac OS X 10.12
+Intel Mac OS X 10.13
+Intel Mac OS X 10.14
+Intel Mac OS X 10.9
+Linux armv7l
+Linux armv8l
+Linux i686
+Linux x86_64
+not collected
+unknown
+Windows NT 10.0; Win64; x64
+Windows NT 10.0; WOW64
+Windows NT 5.1
+Windows NT 5.2; WOW64
+Windows NT 6.1; Win64; x64
+Windows NT 6.1; WOW64
+Windows NT 6.1
+Windows NT 6.3; Win64; x64
