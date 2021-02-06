@@ -27,7 +27,7 @@ The **browser_apis** directory contains data related to JS APIs sometimes used t
 - ```languages.txt``` values of navigator.languages;
 - ```mimeTypes.txt``` values of navigator.mimeTypes;
 - ```oscpus.txt``` values of navigator.oscpu;
-- ```platform.txt``` values of navigator.platform;
+- ```platforms.txt``` values of navigator.platform;
 - ```plugins.txt``` values of navigator.plugins;
 - ```webGLrenderers.txt``` values of ```gl.getParameter(debugInfo.UNMASKED_RENDERER_WEBGL)```;
 - ```webGLvendors.txt``` values of ```gl.getParameter(debugInfo.UNMASKED_VENDOR_WEBGL)```;
