@@ -7,8 +7,6 @@ Linux armv7l
 Linux armv8l
 Linux i686
 Linux x86_64
-not collected
-unknown
 Windows NT 10.0; Win64; x64
 Windows NT 10.0; WOW64
 Windows NT 5.1
