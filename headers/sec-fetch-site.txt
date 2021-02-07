@@ -1,0 +1,4 @@
+cross-site
+same-origin
+same-site
+none

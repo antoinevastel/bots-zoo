@@ -1,0 +1,6 @@
+cors
+navigate
+nested-navigate
+no-cors
+same-origin
+websocket

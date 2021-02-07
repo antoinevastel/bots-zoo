@@ -19,8 +19,9 @@ The **headers** directory contains data related to HTTP headers.
 For the moment, it contains:
 - A list of ~16K user-agents;
 - **Accept** headers for the main browsers;
-- **Accept-Encoding** headers for the main browsers.
-- **Header names** for the main browsers.
+- **Accept-Encoding** headers for the main browsers;
+- **Header names** for the main browsers;
+- **Fetch metadata** request headers.
 
 The **browser_apis** directory contains data related to JS APIs sometimes used to identify a browser:
 - ```language.txt``` values of navigator.language;
