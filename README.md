@@ -11,6 +11,7 @@ For the moment I only have example for the following bots:
 - Puppeteer (NodeJS only): Chromium, Firefox
 - Selenium (NodeJS only): Chromium, Firefox
 - Simple HTTP module/library (NodeJS + Cheerio): Sequential, Parallel
+- Simple HTTP module/library (Python requests + Beautifulsoup): Sequential
 
 I will continue to add other examples, such as Playwright Firefox/WebKit, Selenium Firefox, both in NodeJS but also in other programming languages like Python.
 I will also provide examples for bot frameworks that provide mechanisms against bot detection solutions.
