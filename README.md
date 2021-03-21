@@ -8,6 +8,7 @@ That's why I've decided to centralize examples of simple bots in this repository
 
 For the moment I only have example for the following bots:
 - Playwright (NodeJS only): Chromium, Webkit (Safari), Firefox
+- Playwright extra stealth (Nodejs): Chromium (will be updated when it becomes stable)
 - Puppeteer (NodeJS only): Chromium, Firefox
 - Puppeteer extra stealth (NodeJS): Chromium
 - Selenium (NodeJS only): Chromium, Firefox
