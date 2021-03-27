@@ -17,7 +17,7 @@ For the moment I only have example for the following bots:
 - Undetected Chromedriver (Python): Chrome
 - Ferrum (Ruby): Chrome
 - Watir (Ruby): Chrome, Safari (MacOS)
-- Simple HTTP module/library (NodeJS + Cheerio): Sequential, Parallel
+- Simple HTTP module/library (NodeJS + Cheerio): Sequential, Parallel, Sequential using Nord VPN
 - Simple HTTP module/library (Python requests/aiohttp + Beautifulsoup): Sequential, Parallel (x2 implementations)
 
 I will continue to add other examples, such as Playwright Firefox/WebKit, Selenium Firefox, both in NodeJS but also in other programming languages like Python.
