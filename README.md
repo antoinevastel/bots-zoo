@@ -13,6 +13,7 @@ For the moment I only have example for the following bots:
 - Puppeteer extra stealth (NodeJS): Chromium
 - Selenium (NodeJS only): Chromium, Firefox
 - Ferrum (Ruby only): Chrome
+- Watir (Ruby only): Chrome
 - Simple HTTP module/library (NodeJS + Cheerio): Sequential, Parallel
 - Simple HTTP module/library (Python requests/aiohttp + Beautifulsoup): Sequential, Parallel (x2 implementations)
 
