@@ -11,6 +11,7 @@ For the moment I only have example for the following bots:
 - Playwright extra stealth (Nodejs): Chromium (will be updated when it becomes stable)
 - Puppeteer (NodeJS): Chromium, Firefox, Android (emulation), iPhone (emulation)
 - Puppeteer extra stealth (NodeJS): Chromium
+- Pyppeteer stealth (Python): Chromium
 - Selenium (NodeJS): Chromium, Firefox
 - Selenium stealth (Python): Chrome
 - Ferrum (Ruby): Chrome
