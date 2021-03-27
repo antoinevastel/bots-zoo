@@ -1,0 +1,7 @@
+macOS
+Android
+Chrome OS
+iOS
+Linux
+Windows
+Unknown
