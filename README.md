@@ -7,13 +7,14 @@ Since I'm juggling between different frameworks/languages, sometimes it's diffic
 That's why I've decided to centralize examples of simple bots in this repository. I hope it will also benefit other people.
 
 For the moment I only have example for the following bots:
-- Playwright (NodeJS only): Chromium, Webkit (Safari), Firefox
+- Playwright (NodeJS): Chromium, Webkit (Safari), Firefox
 - Playwright extra stealth (Nodejs): Chromium (will be updated when it becomes stable)
-- Puppeteer (NodeJS only): Chromium, Firefox, Android (emulation), iPhone (emulation)
+- Puppeteer (NodeJS): Chromium, Firefox, Android (emulation), iPhone (emulation)
 - Puppeteer extra stealth (NodeJS): Chromium
-- Selenium (NodeJS only): Chromium, Firefox
-- Ferrum (Ruby only): Chrome
-- Watir (Ruby only): Chrome, Safari (only MacOS)
+- Selenium (NodeJS): Chromium, Firefox
+- Selenium stealth (Python): Chrome
+- Ferrum (Ruby): Chrome
+- Watir (Ruby): Chrome, Safari (MacOS)
 - Simple HTTP module/library (NodeJS + Cheerio): Sequential, Parallel
 - Simple HTTP module/library (Python requests/aiohttp + Beautifulsoup): Sequential, Parallel (x2 implementations)
 
