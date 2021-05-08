@@ -19,6 +19,7 @@ For the moment I only have example for the following bots:
 - Watir (Ruby): Chrome, Safari (MacOS)
 - Simple HTTP module/library (NodeJS + Cheerio): Sequential, Parallel, Sequential using Nord VPN
 - Simple HTTP module/library (Python requests/aiohttp + Beautifulsoup): Sequential, Parallel (x2 implementations)
+- Simple HTTP module/library (Golang standard library + goquery): Sequential
 
 I will continue to add other examples, such as Playwright Firefox/WebKit, Selenium Firefox, both in NodeJS but also in other programming languages like Python.
 I will also provide examples for bot frameworks that provide mechanisms against bot detection solutions.
