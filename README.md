@@ -14,6 +14,7 @@ For the moment I only have example for the following bots:
 - Pyppeteer stealth (Python): Chromium
 - Selenium (NodeJS): Chromium, Firefox
 - Selenium stealth (Python): Chrome
+- Selenium driverless (Python): Chrome
 - Undetected Chromedriver (Python): Chrome
 - Ferrum (Ruby): Chrome
 - Watir (Ruby): Chrome, Safari (MacOS)
