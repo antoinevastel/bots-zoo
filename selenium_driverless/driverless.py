@@ -7,9 +7,8 @@ import asyncio
 
 async def main():
     options = webdriver.ChromeOptions()
-    options.add_argument("--headless")
+    options.add_argument("--headless=new")
     options.add_argument("--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36")
-    options.add_argument("--disable-blink-features=AutomationControlled")
     
     async with webdriver.Chrome(options=options) as driver:
         url = "https://antoinevastel.com"
