@@ -1,5 +1,9 @@
 # Bots Zoo
 
+## News:
+I recently created a [website where you can see your browser fingerprint](https://deviceandbrowserinfo.com/info_device) and different fingerprinting-related signals like your IP address, your canvas fingerprint, your HTTP headers, etc. Some information is accessible both through a webpage and through APIs. Don't hesitate to bookmark it as I will add more signals and more content related to bots.
+
+
 For my different projects, I often have to launch bots using different kinds of browsers (Firefox, Chrome, Headless/not headless) using different automation frameworks (Puppeteer, Selenium, Playwright) in several programming languages. 
 
 Since I'm juggling between different frameworks/languages, sometimes it's difficult to remember/find how to set up a particular kind of bot, or how to execute basic commands. 
